@@ -1,0 +1,3 @@
+El directorio raíz de un repositorio es la carpeta principal que contiene todos los archivos y carpetas del proyecto. También se conoce como la carpeta de nivel superior o carpeta base. En un sistema de control de versiones como Git, este directorio raíz se llama el "directorio de trabajo" o "working directory".
+
+El directorio raíz suele contener archivos importantes, como el archivo README, el archivo LICENSE, y un archivo oculto llamado .git, que es utilizado por Git para realizar un seguimiento de los cambios en el repositorio. Además, también puede contener subdirectorios que contienen código fuente, archivos de configuración, pruebas y otros recursos necesarios para el proyecto.
